@@ -55,11 +55,3 @@ The Project Management System is a software application designed to help users p
 ## Contributing
 
 If you find any issues or want to contribute to the project, please submit a pull request or open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-You should customize this README according to your actual system and provide any additional details or usage instructions as needed.
